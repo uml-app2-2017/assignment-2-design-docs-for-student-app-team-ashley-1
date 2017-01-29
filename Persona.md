@@ -1,8 +1,6 @@
 # Persona
-=========
 
 ## Amanda
----------
 
 **Likes:** Art, Comics, Korean Movies, Food, Loafing, Sleeping
 
