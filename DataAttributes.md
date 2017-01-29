@@ -5,7 +5,7 @@ School             | School             | About
 Contact Email      | Description        | Email
 Password           | Requirements       | Password
 App Description    | List of Applicants | Age
-URl                | Status             | Gender
+URL                | Status             | Gender
                    |                    | Habits
                    |                    | GPA
                    |                    | Total Number of Assignments
